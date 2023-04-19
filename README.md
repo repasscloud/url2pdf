@@ -12,7 +12,7 @@
   </p>
   <p>
 
-[![example branch parameter](https://github.com/repasscloud/url2pdf/actions/workflows/dotnet.yml/badge.svg?branch=main)]
+![example branch parameter](https://github.com/repasscloud/url2pdf/actions/workflows/dotnet.yml/badge.svg?branch=main)
 [![Twitter](https://img.shields.io/twitter/follow/repasscloud.svg?label=Follow&style=social)](https://twitter.com/repasscloud)
 
   </p>
