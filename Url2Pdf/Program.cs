@@ -24,6 +24,22 @@ class Program
 {
     static void Main(string[] args)
     {
+        // Set empty URL
+        string url = "https://www.amazon.com/";
+
+        // Check if the args contains "--url"
+        int urlIndex = Array.IndexOf(args, "--url");
+
+        if (urlIndex >= 0 && urlIndex < args.Length - 1)
+        {
+            // Get the URL from "--url" argument
+            url = args[urlIndex + 1];
+        }
+        else
+        {
+            Console.WriteLine("URL argument was not found or missing, using 'https://www.amazon.com/' instead");
+        }
+
         // Create subfolder
         string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), Guid.NewGuid().ToString());
         Directory.CreateDirectory(uploadPath);
@@ -46,7 +62,7 @@ class Program
         IWebDriver driver = new FirefoxDriver(options);
 
         // Navigate to the web page
-        driver.Navigate().GoToUrl("https://www.amazon.com/");
+        driver.Navigate().GoToUrl(url);
 
         // Wait for the webpage to load
         System.Threading.Thread.Sleep(5000);
