@@ -79,13 +79,10 @@ Please make sure to read the [Contributing Guide]() before making a pull request
 Thank you to all the people who already contributed to this project!
 
 ## Maintainers 👷
-List of maintainers, replace all `href`, `src` attributes by your maintainers datas.
 <table>
   <tr>
     <td align="center"><a href="https://repasscloud.com"><img src="https://avatars.githubusercontent.com/u/67032541?s=200&v=4" width="100px;" alt="RePass Cloud Pty Ltd"/><br /><sub><b>RePass Cloud Pty Ltd</b></sub></a><br /><a href="#" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://twitter.com/danijeljw"><img src="https://avatars.githubusercontent.com/u/2172792?v=4" width="100px;" alt="Danijel-James Wynyard"/><br /><sub><b>Danijel-James Wynyard</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+	  <td align="center"><a href="https://twitter.com/danijeljw"><img src="https://avatars.githubusercontent.com/u/2172792?v=4" width="100px;" alt="Danijel-James Wynyard"/><br /><sub><b>Danijel-James Wynyard</b></sub></a><br /><a href="#" title="Code">💻</a></td>
   </tr>
 </table>
 
