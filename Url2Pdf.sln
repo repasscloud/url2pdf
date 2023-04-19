@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Url2Pdf", "Url2Pdf\Url2Pdf.csproj", "{6ECB64F1-8186-4DFD-8E87-ED0AC10B0371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECB64F1-8186-4DFD-8E87-ED0AC10B0371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECB64F1-8186-4DFD-8E87-ED0AC10B0371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECB64F1-8186-4DFD-8E87-ED0AC10B0371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECB64F1-8186-4DFD-8E87-ED0AC10B0371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94072C0F-2604-4E3A-989D-26EA2676DA29}
+	EndGlobalSection
+EndGlobal
