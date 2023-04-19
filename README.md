@@ -12,12 +12,7 @@
   </p>
   <p>
 
-[![Build Status](https://travis-ci.com/repasscloud/url2pdf.svg?branch=master)](https://travis-ci.com/repasscloud/url2pdf)
-[![NPM version](https://img.shields.io/npm/v/url2pdf?style=flat-square)](https://img.shields.io/npm/v/url2pdf?style=flat-square)
-[![Package size](https://img.shields.io/bundlephobia/min/url2pdf)](https://img.shields.io/bundlephobia/min/url2pdf)
-[![Dependencies](https://img.shields.io/david/repasscloud/url2pdf.svg?style=popout-square)](https://david-dm.org/repasscloud/url2pdf)
-[![devDependencies Status](https://david-dm.org/repasscloud/url2pdf/dev-status.svg?style=flat-square)](https://david-dm.org/repasscloud/url2pdf?type=dev)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![example branch parameter](https://github.com/repasscloud/url2pdf/actions/workflows/dotnet.yml/badge.svg?branch=main)]
 [![Twitter](https://img.shields.io/twitter/follow/repasscloud.svg?label=Follow&style=social)](https://twitter.com/repasscloud)
 
   </p>
